@@ -1,0 +1,6 @@
+classes = 1
+train  = data/port_test.txt
+valid  = data/port_train.txt
+names = data/classes.names
+backup = backup/
+
